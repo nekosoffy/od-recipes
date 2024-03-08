@@ -1,0 +1,28 @@
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+    text-align: center;
+    background-color: rgb(245, 223, 245)
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.intro {
+    font-size: 25px;
+}
+
+.mainlist {
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0.7em 0;
+}
