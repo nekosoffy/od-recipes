@@ -1,4 +1,4 @@
 # od-recipes
-Project for creating a basic website for showcasing a few recipes. 
+Project for a simple recipes website.
 
-Upon conclusion, it will be possible to demonstrate skills in HTML syntax and commands.
+Upon conclusion, it will be possible to demonstrate skills in HTML and CSS.
